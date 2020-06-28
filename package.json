@@ -1,0 +1,14 @@
+{
+  "name": "tupa-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tunapanini/tupa-html.git",
+  "author": "한은이 <haneuneee@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
